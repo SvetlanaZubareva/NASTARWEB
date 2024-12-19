@@ -555,11 +555,11 @@ body {
         margin-top: 0;
     }
     .section-video-desctop img{
-        width: 30%;
-        top: -110vh;
+        width: 90%;
+        top: -30vh;
     }
     .section-video-desctop video{
-        width: 30%;
-        top: -93vh;
+        width: 90%;
+        top: -20vh;
     }
   }
